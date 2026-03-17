@@ -35,7 +35,7 @@ pip install -r requirements.txt
 Run the translator:
 
 ```
-python qaneq/translator.py
+python qaneq translator.py
 ```
 
 Example:
