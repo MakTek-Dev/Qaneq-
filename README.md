@@ -17,6 +17,41 @@ This project aims to create tools that help people:
 
 ---
 
+## Quick Start
+
+Clone the repository:
+
+```
+git clone https://github.com/MakTek-Dev/Qaneq.git
+cd Qaneq
+```
+
+Install requirements:
+
+```
+pip install -r requirements.txt
+```
+
+Run the translator:
+
+```
+python qaneq/translator.py
+```
+
+Example:
+
+Input:
+
+```
+qaneq
+```
+
+Output:
+
+```
+mouth
+```
+
 # Project Philosophy
 
 Yup'ik language is not simply a collection of words.
